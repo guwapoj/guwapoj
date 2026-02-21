@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guwapoj
-- 👀 I’m interested in creating coding projects
-- 🌱 I’m currently learning SQL/HTML/CSS
+- 👀 I’m interested in creating security projects
+- 🌱 I’m currently learning Security
 - 💞️ I’m looking to collaborate on programs
 - 📫 message me or email
 
